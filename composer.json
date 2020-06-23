@@ -1,0 +1,17 @@
+{
+    "name": "kelaskoding/mylibrary",
+    "description": "My Simple Library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hendro Steven",
+            "email": "hendro.steven@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"kelaskoding\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
