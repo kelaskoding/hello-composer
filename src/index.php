@@ -1,5 +1,5 @@
 <?php
-namespace kelaskoding\HelloWorld;
+namespace kelaskoding\jarvis;
 
 class Index{
     public function hello($name = "Hendro Steven"){
